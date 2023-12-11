@@ -1,3 +1,9 @@
 [submodule "junkquit-web"]
 	path = junkquit-web
 	url = https://github.com/sylvanld/junkquit-web.git
+[submodule "shopping-api"]
+	path = shopping-api
+	url = https://github.com/sylvanld/shopping-api.git
+[submodule "cookbook-api"]
+	path = cookbook-api
+	url = https://github.com/sylvanld/cookbook-api.git
