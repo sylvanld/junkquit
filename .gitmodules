@@ -1,0 +1,3 @@
+[submodule "junkquit-web"]
+	path = junkquit-web
+	url = https://github.com/sylvanld/junkquit-web.git
